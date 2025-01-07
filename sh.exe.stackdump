@@ -1,0 +1,7 @@
+Signal 8440344 at eip=00000000
+eax=00000000 ebx=7649C1B4 ecx=00000000 edx=00000000 esi=00000000 edi=00000000
+ebp=00000000 esp=00000000 program=C:\Users\ASUS\AppData\Local\Atlassian\SourceTree\git_local\usr\bin\sh.exe, pid 600, thread main
+cs=0000 ds=0043 es=61256FEA fs=77068468 gs=01F4 ss=0000
+Stack trace:
+Frame     Function  Args
+End of stack trace
